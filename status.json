@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Wed, Nov 4, 12:55 PM ET",
-    "headline": "We started your new booking calendar and call reminders today, and your new local texting number is next.",
-    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we finish your 15-minute intro call calendar and its reminders, set up your new local number and submit the business texting registration. Still open: the website, which still shows an error as of Nov 4.",
+    "updated_at": "Wed, Nov 4, 6:00 PM ET",
+    "headline": "Your new local texting number is now in your account, and your intro call calendar and reminders are underway.",
+    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we submit the business texting registration for your new local number and finish your 15-minute intro call calendar with its reminders and follow-ups. Still open: the website, which still shows an error as of Nov 4.",
     "needs_you": "Maria: you are clear to cancel CRM Boost. Yilian: upload the FRS tips and your logos and brand files to the shared Google Drive folder. Maria and Yilian: pick the video for your free agent training.",
     "next_call": "Thu, Nov 5 at 10:30 AM ET (9:30 AM CT). Every Thursday after that."
   },
@@ -77,7 +77,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 4",
-      "note": "Thank you for picking your new local number on Nov 4. The old 888 number has been cancelled. Next we set up the new number and submit the business texting registration. Approval takes 2 to 4 weeks after we submit."
+      "note": "Your new local number, (786) 404-9960, is now in your account as of Nov 4. The old 888 number has been cancelled. Next we submit the business texting registration. Approval takes 2 to 4 weeks after we submit."
     },
     {
       "id": "t09",
@@ -239,7 +239,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 4",
-      "note": "Nov 4: we started building the confirmation and reminders for your intro call. Reminders 24 hours, 1 hour, 30 minutes and 5 minutes before. Not turned on yet."
+      "note": "Nov 4: we started building the confirmation, reminders and follow-ups for your intro call, including a thank-you after the call and a reschedule message for missed or cancelled calls. Reminders 24 hours, 1 hour, 30 minutes and 5 minutes before. Not turned on yet."
     },
     {
       "id": "t27",
