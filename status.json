@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Wed, Nov 4, 8:55 AM ET",
-    "headline": "You picked your new local texting number, and we are setting it up next.",
-    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we set up your new local number and submit the business texting registration. Still open: the website, which still shows an error as of Nov 4.",
+    "updated_at": "Wed, Nov 4, 12:55 PM ET",
+    "headline": "We started your new booking calendar and call reminders today, and your new local texting number is next.",
+    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we finish your 15-minute intro call calendar and its reminders, set up your new local number and submit the business texting registration. Still open: the website, which still shows an error as of Nov 4.",
     "needs_you": "Maria: you are clear to cancel CRM Boost. Yilian: upload the FRS tips and your logos and brand files to the shared Google Drive folder. Maria and Yilian: pick the video for your free agent training.",
     "next_call": "Thu, Nov 5 at 10:30 AM ET (9:30 AM CT). Every Thursday after that."
   },
@@ -227,19 +227,19 @@
       "id": "t25",
       "area": "Booking and follow-up",
       "task": "GHL booking calendar to replace Calendly",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov",
-      "note": "Calls on set days only, with your intake form before booking. The newsletter's booking button will link here."
+      "when": "Nov 4",
+      "note": "Nov 4: your 15-minute intro call calendar now has Maria assigned. Calls on set days only, with your intake form before booking. The newsletter booking button will link here."
     },
     {
       "id": "t26",
       "area": "Booking and follow-up",
       "task": "Appointment reminders and no-show follow-up",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov",
-      "note": "Reminders 24 hours, 1 hour, 30 minutes and 5 minutes before."
+      "when": "Nov 4",
+      "note": "Nov 4: we started building the confirmation and reminders for your intro call. Reminders 24 hours, 1 hour, 30 minutes and 5 minutes before. Not turned on yet."
     },
     {
       "id": "t27",
