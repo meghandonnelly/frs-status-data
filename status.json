@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 5, 9:00 AM ET",
+    "updated_at": "Thu, Nov 5, 9:15 AM ET",
     "headline": "Your new local texting number is now in your account, and your intro call calendar and reminders are underway.",
-    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we submit the business texting registration for your new local number and finish your 15-minute intro call calendar with its reminders and follow-ups. Still open: the website, which still shows an error as of Nov 5.",
+    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Your roomvu contacts are moving into GHL now. Next: we submit the business texting registration for your new local number and finish your 15-minute intro call calendar with its reminders and follow-ups. Still open: the website, which still shows an error as of Nov 5.",
     "needs_you": "Maria: you are clear to cancel CRM Boost. Yilian: upload the FRS tips and your logos and brand files to the shared Google Drive folder. Maria and Yilian: pick the video for your free agent training.",
     "next_call": "Today, Thu, Nov 5 at 10:30 AM ET (9:30 AM CT). Every Thursday after that."
   },
@@ -344,10 +344,10 @@
       "id": "t38",
       "area": "Moving your data",
       "task": "Move roomvu contacts into GHL",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Not scheduled yet",
-      "note": "Agreed Oct 29: first and last name, email, phone, birth date, and notes that hold the issue date."
+      "when": "Nov 5",
+      "note": "Nov 5: your roomvu contacts are moving into GHL now, with first and last name, email, phone, birth date, and notes that hold the issue date."
     },
     {
       "id": "t39",
