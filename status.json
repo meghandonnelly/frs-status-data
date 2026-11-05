@@ -1,10 +1,10 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 5, 9:15 AM ET",
-    "headline": "Your new local texting number is now in your account, and your intro call calendar and reminders are underway.",
-    "body": "Done so far: your logins use your own domain, the time zone is Eastern, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Your roomvu contacts are moving into GHL now. Next: we submit the business texting registration for your new local number and finish your 15-minute intro call calendar with its reminders and follow-ups. Still open: the website, which still shows an error as of Nov 5.",
-    "needs_you": "Maria: you are clear to cancel CRM Boost. Yilian: upload the FRS tips and your logos and brand files to the shared Google Drive folder. Maria and Yilian: pick the video for your free agent training.",
-    "next_call": "Today, Thu, Nov 5 at 10:30 AM ET (9:30 AM CT). Every Thursday after that."
+    "updated_at": "Thu, Nov 5, 1:00 PM ET",
+    "headline": "All your CRM Boost contacts are in GHL, your roomvu contacts are being matched in now, and we are aiming to send your first GHL newsletter next week.",
+    "body": "Done so far: your logins use your own domain, the domain renews automatically, old automations are paused, and all 1,211 CRM Boost clients and leads are in GHL with their notes, birthdays and Issue Dates. Next: we finish moving your roomvu contacts, send you test newsletters to approve, submit the business texting registration for your new local number, and finish your intro call calendar and reminders. Still open: the website, which still shows an error as of Nov 5 while we work on it with GHL support.",
+    "needs_you": "Yilian: cancel CRM Boost, upload the presentations, FRS tips and brand files to the shared Google Drive, and send the Facebook access email to Creative One from Maria's email once we send you the draft. Maria: record 30 to 35 minutes of yourself reading out loud for your video presenter. Maria and Yilian: pick the video for your free agent training.",
+    "next_call": "Thu, Nov 12 at 10:30 AM ET (9:30 AM CT). Every Thursday after that."
   },
   "tasks": [
     {
@@ -49,8 +49,8 @@
       "task": "Website loads at www.flretirementsolutions.com",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Now",
-      "note": "As of Nov 5 the website still shows a \"page not found\" message at www. Getting it back online is our top fix."
+      "when": "Nov 5",
+      "note": "As of Nov 5 the www address still shows a \"page not found\" message. We reconnected the domain and asked GHL support to look into it. Getting it back online is our top fix."
     },
     {
       "id": "t06",
@@ -130,8 +130,8 @@
       "task": "Newsletter assistant built inside your GHL",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Oct 29",
-      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. First test draft done Oct 29. Nothing goes to subscribers on its own."
+      "when": "Nov 5",
+      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. On the Nov 5 call we agreed on about four sections each week, built from your own resource library. Nothing goes to subscribers on its own."
     },
     {
       "id": "t15",
@@ -148,8 +148,8 @@
       "task": "Newsletter design in GHL with your disclaimer",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Early Nov",
-      "note": "First test version reviewed on the Oct 29 call. Maria's photo goes in the footer."
+      "when": "Nov 5",
+      "note": "Nov 5: we are starting test newsletters with different sections for you to review. Maria's photo goes in the footer."
     },
     {
       "id": "t17",
@@ -157,8 +157,8 @@
       "task": "First newsletter sent from GHL",
       "status": "Not started",
       "owner": "Meghan Donnelly",
-      "when": "Nov 24",
-      "note": "After you approve it."
+      "when": "Aiming for next week",
+      "note": "After you approve it, and once the roomvu newsletter is turned off. roomvu stays on for social posts for now."
     },
     {
       "id": "t18",
@@ -194,7 +194,7 @@
       "status": "Done",
       "owner": "Meghan Donnelly",
       "when": "Nov 2",
-      "note": "1,211 clients and leads are in GHL with their notes, birthdays and Issue Dates. No SSNs or full policy numbers came over."
+      "note": "1,211 clients and leads are in GHL with their notes, birthdays and Issue Dates. No SSNs or full policy numbers came over. A backup copy is kept for 30 days."
     },
     {
       "id": "t48",
@@ -229,8 +229,8 @@
       "task": "GHL booking calendar to replace Calendly",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 4",
-      "note": "Nov 4: your 15-minute intro call calendar now has Maria assigned. Calls on set days only, with your intake form before booking. The newsletter booking button will link here."
+      "when": "Nov 5",
+      "note": "Nov 5: intro calls on Tuesdays and Thursdays, 8 AM to 5 PM, checked against Maria's personal Google calendar so nothing is double booked. Maria is assigned, with your intake form before booking. The newsletter booking button will link here."
     },
     {
       "id": "t26",
@@ -238,8 +238,8 @@
       "task": "Appointment reminders and no-show follow-up",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 4",
-      "note": "Nov 4: we started building the confirmation, reminders and follow-ups for your intro call, including a thank-you after the call and a reschedule message for missed or cancelled calls. Reminders 24 hours, 1 hour, 30 minutes and 5 minutes before. Not turned on yet."
+      "when": "Nov 5",
+      "note": "Confirmation, reminders 24 hours, 1 hour and 5 minutes before, a thank-you after the call, and up to 3 messages offering a new time after a missed call. Built, not turned on yet."
     },
     {
       "id": "t27",
@@ -254,10 +254,10 @@
       "id": "t28",
       "area": "Booking and follow-up",
       "task": "Lead and client follow-up journeys",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Not scheduled yet",
-      "note": ""
+      "when": "Nov 5",
+      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Not turned on yet."
     },
     {
       "id": "t29",
@@ -347,7 +347,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 5",
-      "note": "Nov 5: your roomvu contacts are moving into GHL now, with first and last name, email, phone, birth date, and notes that hold the issue date."
+      "note": "Nov 5: about 1,080 roomvu contacts are matched and updated in GHL, most of them people who were already there, and they are tagged for the newsletter. We are finishing the rest."
     },
     {
       "id": "t39",
@@ -364,8 +364,8 @@
       "task": "Client reviews and Google Business Profile",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Oct 29",
-      "note": "Confirmed by email on Oct 29: we will set up a simple way to ask clients for reviews, plus your Google Business Profile."
+      "when": "Nov 5",
+      "note": "Confirmed by email on Oct 29: a simple way to ask clients for reviews, plus your Google Business Profile. Nov 5: we will ask for reviews when a policy is delivered."
     },
     {
       "id": "t41",
@@ -373,8 +373,8 @@
       "task": "Library for carrier materials and FRS tips",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 3",
-      "note": "9 of Maria's FRS presentations (English) are saved and sorted in the shared Google Drive. Danny has the Spanish versions ready and will add them to the folder. Gives the newsletter more of your own content."
+      "when": "Nov 5",
+      "note": "Maria's FRS presentations are being saved and sorted in the shared Google Drive, with the Spanish versions on the way. They will also become free guides in English and Spanish."
     },
     {
       "id": "t42",
@@ -397,11 +397,11 @@
     {
       "id": "t44",
       "area": "From you",
-      "task": "Upload FRS tips from the four presentations",
+      "task": "Upload the FRS presentations and tips",
       "status": "Waiting on you",
       "owner": "Yilian",
       "when": "Any time",
-      "note": "Into the shared folder."
+      "note": "Into the shared Google Drive folder, including the Spanish versions."
     },
     {
       "id": "t45",
@@ -447,20 +447,50 @@
       "owner": "Maria and Yilian",
       "when": "Nov 4",
       "note": "Yilian picked option 1 on Nov 4. Calls to the new number will forward to Maria's cell."
+    },
+    {
+      "id": "t51",
+      "area": "From you",
+      "task": "Cancel CRM Boost",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "Any time",
+      "note": "All your contacts and notes are safely in GHL."
+    },
+    {
+      "id": "t52",
+      "area": "Fix first",
+      "task": "Admin access to your Facebook page and ad account",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 5",
+      "note": "Creative One manages your Florida Retirement Solutions page. We are writing the email asking them for full admin access."
+    },
+    {
+      "id": "t53",
+      "area": "From you",
+      "task": "Send the Facebook access email to Creative One",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "After we send the draft",
+      "note": "From Maria's email, with Meghan copied."
+    },
+    {
+      "id": "t54",
+      "area": "From you",
+      "task": "Record 30 to 35 minutes of reading out loud",
+      "status": "Waiting on you",
+      "owner": "Maria",
+      "when": "Any time",
+      "note": "For your video presenter in the free webinar."
     }
   ],
   "dates": [
     {
       "id": "d5",
-      "date": "2026-11-05",
+      "date": "2026-11-12",
       "label": "Weekly call",
       "detail": "10:30 AM ET (9:30 AM CT), every Thursday"
-    },
-    {
-      "id": "d3",
-      "date": "2026-11-24",
-      "label": "First newsletter from GHL",
-      "detail": "After your approval"
     },
     {
       "id": "d4",
