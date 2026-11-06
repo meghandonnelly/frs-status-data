@@ -1,6 +1,6 @@
 {
   "summary": {
-    "updated_at": "Fri, Nov 6, 1:00 PM ET",
+    "updated_at": "Fri, Nov 6, 5:10 PM ET",
     "headline": "Your CRM Boost and roomvu contacts are in GHL. Next up: your first newsletter and texting setup.",
     "body": "Done: CRM Boost and roomvu contacts moved, domain fixed, old automations paused. Next: first newsletter, booking calendar and texting registration. Still down: the website.",
     "needs_you": "Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
@@ -257,7 +257,16 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 5",
-      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Not turned on yet."
+      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Booked calls must be confirmed by the lead before they land on the calendar. Not turned on yet."
+    },
+    {
+      "id": "t55",
+      "area": "Booking and follow-up",
+      "task": "New-client welcome steps and secure client portal",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "Not scheduled yet",
+      "note": "Agreed on the Nov 5 call as a next priority. We will check with F and G, North American and Nationwide whether they can let us know when a policy is approved, so the portal invite goes out on its own."
     },
     {
       "id": "t29",
@@ -483,6 +492,15 @@
       "owner": "Maria",
       "when": "Any time",
       "note": "For your video presenter in the free webinar."
+    },
+    {
+      "id": "t56",
+      "area": "From you",
+      "task": "Email the list of insurance companies you work with",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "Any time",
+      "note": "From the Nov 5 call. F and G, North American and Nationwide are noted already."
     }
   ],
   "dates": [
