@@ -1,9 +1,9 @@
 {
   "summary": {
-    "updated_at": "Mon, Nov 9, 9:00 AM ET",
-    "headline": "Your CRM Boost and roomvu contacts are in GHL. Next up: your first newsletter and texting setup.",
-    "body": "Done: CRM Boost and roomvu contacts moved, domain fixed, old automations paused. Next: first newsletter, booking calendar and texting registration. Still down: the website.",
-    "needs_you": "Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
+    "updated_at": "Mon, Nov 9, 12:55 PM ET",
+    "headline": "Your old website content is saved, and the Facebook access request is with Creative One.",
+    "body": "Done: contacts moved from CRM Boost and roomvu, domain fixed, old automations paused, and your old website content saved in Google Drive. Next: first newsletter, booking calendar and texting registration. Still open: the website is down, and we are waiting on Creative One for Facebook access.",
+    "needs_you": "Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading. Both: send any saved Home or About pages and your logo.",
     "next_call": "Thu, Nov 12, 10:30 AM ET"
   },
   "tasks": [
@@ -362,10 +362,10 @@
       "id": "t39",
       "area": "Fix first",
       "task": "Recover your old website content",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Not scheduled yet",
-      "note": "Oct 29: we asked the former website company for the original pages, videos and files, and we are saving a copy from the web archive into your client folder."
+      "when": "Nov 9",
+      "note": "Saved in your Old Website folder in Google Drive: the Services, Resources and Contact pages, all 9 blog posts and the photos we could find. Anything we reuse gets a compliance review first."
     },
     {
       "id": "t40",
@@ -472,17 +472,17 @@
       "task": "Admin access to your Facebook page and ad account",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 5",
-      "note": "Creative One manages your Florida Retirement Solutions page. We are writing the email asking them for full admin access."
+      "when": "Nov 9",
+      "note": "Maria emailed Creative One on Nov 9 asking for full admin access. We are waiting for their reply."
     },
     {
       "id": "t53",
       "area": "From you",
       "task": "Send the Facebook access email to Creative One",
-      "status": "Waiting on you",
+      "status": "Done",
       "owner": "Yilian",
-      "when": "After we send the draft",
-      "note": "From Maria's email, with Meghan copied."
+      "when": "Nov 9",
+      "note": "Maria sent it to Creative One on Nov 9, with Meghan copied."
     },
     {
       "id": "t54",
@@ -501,6 +501,24 @@
       "owner": "Yilian",
       "when": "Any time",
       "note": "From the Nov 5 call. F and G, North American and Nationwide are noted already."
+    },
+    {
+      "id": "t57",
+      "area": "From you",
+      "task": "Send any saved Home, About or Events pages and your logo",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "Any time",
+      "note": "These were not in the web archive. Upload them to the shared Google Drive if you have them."
+    },
+    {
+      "id": "t58",
+      "area": "Newsletter and content",
+      "task": "Your questions: newsletter for contacts in your inbox, and moving Dropbox files into GHL",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 12 call",
+      "note": "Maria asked on Nov 9. We replied with a quick question about how those emails are sorted, and we will go over both on Thursday's call."
     }
   ],
   "dates": [
