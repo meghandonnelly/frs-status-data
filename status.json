@@ -1,9 +1,9 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 12, 1:00 PM ET",
-    "headline": "We sent you three new website name options so the site can get back online sooner.",
-    "body": "Done: contacts moved from CRM Boost and roomvu, domain set to renew, old automations paused, and your old website content saved in Google Drive. Next: first newsletter, booking calendar and texting registration. Still open: the website is down while GHL works on it, so please pick a new website name, and we are waiting on Creative One for Facebook access.",
-    "needs_you": "Maria and Yilian: pick one of the three website names we emailed on Nov 12. Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
+    "updated_at": "Thu, Nov 12, 6:00 PM ET",
+    "headline": "Maria picked the new name, Florida Retirement Strategies, and the new website address is secured.",
+    "body": "Done: contacts moved from CRM Boost and roomvu, both domains set to renew, old automations paused, and your old website content saved in Google Drive. Next: set up the website on floridaretirementstrategies.com, the first newsletter in its new look, the booking calendar and texting registration. Still open: the old website address is still down while GHL works on it, and we are waiting on Creative One for Facebook access.",
+    "needs_you": "Yilian: confirm whether the business name is a DBA or a fictitious name, cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
     "next_call": "Thu, Nov 19, 10:30 AM ET (9:30 AM CT)"
   },
   "tasks": [
@@ -50,7 +50,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 12",
-      "note": "As of Nov 12 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, we agreed on the Nov 12 call to look at a new website name, and we emailed you three options that day."
+      "note": "As of Nov 12 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, Maria picked a new name on Nov 12 and the new website address is being set up."
     },
     {
       "id": "t06",
@@ -148,8 +148,8 @@
       "task": "Newsletter design in GHL with your disclaimer",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 5",
-      "note": "Nov 5: we are starting test newsletters with different sections for you to review. Maria's photo goes in the footer."
+      "when": "Nov 12",
+      "note": "Nov 12: we showed the new coastal \"Weekly Retirement News\" look on the call. We will send the brand guide for your review, then a test issue for your approval. Maria's photo goes in the footer."
     },
     {
       "id": "t17",
@@ -158,7 +158,7 @@
       "status": "Not started",
       "owner": "Meghan Donnelly",
       "when": "Aiming for next week",
-      "note": "After you approve it, and once the roomvu newsletter is turned off. roomvu stays on for social posts for now."
+      "note": "Planned as a Thanksgiving issue, after you approve it and once the roomvu newsletter is turned off. roomvu stays on for social posts for now."
     },
     {
       "id": "t18",
@@ -256,8 +256,8 @@
       "task": "Lead and client follow-up journeys",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 9",
-      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Booked calls must be confirmed by the lead before they land on the calendar. Nov 9: Maria sent the text messages she already uses, so the follow-ups can sound like her. Not turned on yet."
+      "when": "Nov 12",
+      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Booked calls must be confirmed by the lead before they land on the calendar. Nov 9: Maria sent the text messages she already uses, so the follow-ups can sound like her. Nov 12: the step that asks each lead to confirm their call is built. Not turned on yet."
     },
     {
       "id": "t55",
@@ -436,8 +436,8 @@
       "task": "Decision: newsletter goes out once a week",
       "status": "Done",
       "owner": "Maria and Yilian",
-      "when": "Oct 29",
-      "note": ""
+      "when": "Nov 12",
+      "note": "Nov 12: it goes out Tuesdays at 10 AM ET (9 AM CT)."
     },
     {
       "id": "t49",
@@ -472,8 +472,8 @@
       "task": "Admin access to your Facebook page and ad account",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 9",
-      "note": "Maria emailed Creative One on Nov 9 asking for full admin access. We are waiting for their reply."
+      "when": "Nov 12",
+      "note": "Maria emailed Creative One on Nov 9 asking for full admin access. On Nov 12 Yilian let us know an email came from them about releasing the access. We are waiting for it to go through."
     },
     {
       "id": "t53",
@@ -517,17 +517,35 @@
       "task": "Your questions: newsletter for contacts in your inbox, and moving Dropbox files into GHL",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12 call",
+      "when": "Next call",
       "note": "Maria asked on Nov 9. We replied with a quick question about how those emails are sorted, and we will go over both on Thursday's call."
     },
     {
       "id": "t59",
       "area": "From you",
       "task": "Pick a new website name",
-      "status": "Waiting on you",
+      "status": "Done",
       "owner": "Maria and Yilian",
       "when": "Nov 12",
-      "note": "We emailed three options on Nov 12. Reply with the one you like best and we will secure it right away."
+      "note": "Maria picked Florida Retirement Strategies on Nov 12."
+    },
+    {
+      "id": "t60",
+      "area": "Fix first",
+      "task": "New website address: floridaretirementstrategies.com",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 12",
+      "note": "Secured on Nov 12 and set to renew automatically. Next we connect your website to it and point the short \"fl\" version to it. A new business name may need Summit Life Group approval. Needs compliance review."
+    },
+    {
+      "id": "t61",
+      "area": "From you",
+      "task": "Confirm whether the business name is a DBA or a fictitious name",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "From the Nov 12 call",
+      "note": "This helps us register the new name the right way."
     }
   ],
   "dates": [
