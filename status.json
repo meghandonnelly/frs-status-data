@@ -1,10 +1,10 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 12, 9:00 AM ET",
-    "headline": "Your old website content is saved, and the Facebook access request is with Creative One.",
-    "body": "Done: contacts moved from CRM Boost and roomvu, domain fixed, old automations paused, and your old website content saved in Google Drive. Next: first newsletter, booking calendar and texting registration. Still open: the website is down, and we are waiting on Creative One for Facebook access.",
-    "needs_you": "Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading. Both: send any saved Home or About pages and your logo.",
-    "next_call": "Today, Thu, Nov 12, 10:30 AM ET"
+    "updated_at": "Thu, Nov 12, 1:00 PM ET",
+    "headline": "We sent you three new website name options so the site can get back online sooner.",
+    "body": "Done: contacts moved from CRM Boost and roomvu, domain set to renew, old automations paused, and your old website content saved in Google Drive. Next: first newsletter, booking calendar and texting registration. Still open: the website is down while GHL works on it, so please pick a new website name, and we are waiting on Creative One for Facebook access.",
+    "needs_you": "Maria and Yilian: pick one of the three website names we emailed on Nov 12. Yilian: cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
+    "next_call": "Thu, Nov 19, 10:30 AM ET (9:30 AM CT)"
   },
   "tasks": [
     {
@@ -50,7 +50,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 12",
-      "note": "As of Nov 12 the www address still shows a \"page not found\" message. We reconnected the domain and asked GHL support to look into it. Getting it back online is our top fix."
+      "note": "As of Nov 12 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, we agreed on the Nov 12 call to look at a new website name, and we emailed you three options that day."
     },
     {
       "id": "t06",
@@ -519,12 +519,21 @@
       "owner": "Meghan Donnelly",
       "when": "Nov 12 call",
       "note": "Maria asked on Nov 9. We replied with a quick question about how those emails are sorted, and we will go over both on Thursday's call."
+    },
+    {
+      "id": "t59",
+      "area": "From you",
+      "task": "Pick a new website name",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "Nov 12",
+      "note": "We emailed three options on Nov 12. Reply with the one you like best and we will secure it right away."
     }
   ],
   "dates": [
     {
       "id": "d5",
-      "date": "2026-11-12",
+      "date": "2026-11-19",
       "label": "Weekly call",
       "detail": "10:30 AM ET (9:30 AM CT), every Thursday"
     },
