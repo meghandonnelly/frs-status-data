@@ -1,9 +1,9 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 12, 6:00 PM ET",
-    "headline": "Maria picked the new name, Florida Retirement Strategies, and the new website address is secured.",
-    "body": "Done: contacts moved from CRM Boost and roomvu, both domains set to renew, old automations paused, and your old website content saved in Google Drive. Next: set up the website on floridaretirementstrategies.com, the first newsletter in its new look, the booking calendar and texting registration. Still open: the old website address is still down while GHL works on it, and we are waiting on Creative One for Facebook access.",
-    "needs_you": "Yilian: confirm whether the business name is a DBA or a fictitious name, cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
+    "updated_at": "Fri, Nov 13, 9:53 AM ET",
+    "headline": "Your new logo options and Maria's brand boards are in your inbox, and the new website address is secured.",
+    "body": "Done: contacts moved from CRM Boost and roomvu, both domains set to renew, old automations paused, and the new name Florida Retirement Strategies picked. Next: set up the website on floridaretirementstrategies.com, the first newsletter in its new look, the booking calendar and texting registration. Still open: the old website address is still down while GHL works on it, and we are waiting on Creative One for Facebook access.",
+    "needs_you": "Maria and Yilian: pick your new logo (1, 2 or 3) and Maria's brand board. Yilian: confirm DBA or fictitious name, decide on branded email addresses, cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
     "next_call": "Thu, Nov 19, 10:30 AM ET (9:30 AM CT)"
   },
   "tasks": [
@@ -49,8 +49,8 @@
       "task": "Website loads at www.flretirementsolutions.com",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "As of Nov 12 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, Maria picked a new name on Nov 12 and the new website address is being set up."
+      "when": "Nov 13",
+      "note": "As of Nov 13 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, Maria picked a new name on Nov 12 and the new website address is being set up."
     },
     {
       "id": "t06",
@@ -59,7 +59,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "This week",
-      "note": "Still shows an error as of Nov 12. We will fix it together with the www address."
+      "note": "Still shows an error as of Nov 13. We will fix it together with the www address."
     },
     {
       "id": "t07",
@@ -281,10 +281,10 @@
       "id": "t30",
       "area": "Maria Navas brand",
       "task": "Your own domain and GHL sub-account",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Not scheduled yet",
-      "note": ""
+      "when": "Nov 12",
+      "note": "Nov 12: we emailed Yilian a few options for Maria's own website address. Next step is picking one."
     },
     {
       "id": "t31",
@@ -536,7 +536,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 12",
-      "note": "Secured on Nov 12 and set to renew automatically. Next we connect your website to it and point the short \"fl\" version to it. A new business name may need Summit Life Group approval. Needs compliance review."
+      "note": "Secured on Nov 12 and set to renew automatically. As of Nov 13 it shows a \"page not found\" message until your website is connected. Next we connect your website to it and point the short \"fl\" version to it. A new business name may need Summit Life Group approval. Needs compliance review."
     },
     {
       "id": "t61",
@@ -546,6 +546,51 @@
       "owner": "Yilian",
       "when": "From the Nov 12 call",
       "note": "This helps us register the new name the right way."
+    },
+    {
+      "id": "t62",
+      "area": "Fix first",
+      "task": "New logo for Florida Retirement Strategies",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 12",
+      "note": "Three logo options emailed on Nov 12, each in a stacked version and a wide version for the website header and email signature. Final files come once you pick."
+    },
+    {
+      "id": "t63",
+      "area": "From you",
+      "task": "Pick your new logo: option 1, 2 or 3",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "From the Nov 12 email",
+      "note": "Reply to the Nov 12 email with 1, 2 or 3."
+    },
+    {
+      "id": "t64",
+      "area": "Maria Navas brand",
+      "task": "Brand board: colors, fonts and photo style",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 12",
+      "note": "Three color directions emailed on Nov 12: Wine, Lipstick and Pearls, and Honey and Rose. Social posts and everything else will be built from the one you choose."
+    },
+    {
+      "id": "t65",
+      "area": "From you",
+      "task": "Pick Maria's brand board",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "From the Nov 12 email",
+      "note": "Mixing is fine. If you have them, please also send the original full-size headshots from the photographer so photos look sharp everywhere."
+    },
+    {
+      "id": "t66",
+      "area": "From you",
+      "task": "Decide on branded email addresses",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "From the Nov 12 email",
+      "note": "Addresses like maria@ and support@ on your new website address, set up with Google Workspace. Maria's Gmail would stay her personal email."
     }
   ],
   "dates": [
