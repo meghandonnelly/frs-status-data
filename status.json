@@ -1,10 +1,10 @@
 {
   "summary": {
-    "updated_at": "Fri, Nov 13, 9:53 AM ET",
-    "headline": "Your new logo options and Maria's brand boards are in your inbox, and the new website address is secured.",
-    "body": "Done: contacts moved from CRM Boost and roomvu, both domains set to renew, old automations paused, and the new name Florida Retirement Strategies picked. Next: set up the website on floridaretirementstrategies.com, the first newsletter in its new look, the booking calendar and texting registration. Still open: the old website address is still down while GHL works on it, and we are waiting on Creative One for Facebook access.",
-    "needs_you": "Maria and Yilian: pick your new logo (1, 2 or 3) and Maria's brand board. Yilian: confirm DBA or fictitious name, decide on branded email addresses, cancel CRM Boost and upload your files to Google Drive. Maria: record your voice reading.",
-    "next_call": "Thu, Nov 19, 10:30 AM ET (9:30 AM CT)"
+    "updated_at": "Thu, Nov 19, 12:32 PM ET",
+    "headline": "Your new website, booking page and newsletter are approved and ready to launch.",
+    "body": "Done: your logo and Honey and Rose brand board are picked, the old website address forwards to floridaretirementstrategies.com, and the first issue of The Weekly is approved. Next: the full website goes live, The Weekly goes out Tuesday, Nov 24 at 9 AM, and a Thanksgiving greeting follows Wednesday. Still open: business texting registration, Facebook access from Creative One, and new photos of Maria.",
+    "needs_you": "Yilian: add carrier and social media logins to the password vault and upload Maria's photos to the Assets folder. Maria: save outfit screenshots for Yilian, register the DBA and book a photo shoot after your trip. Both: pick a Google Workspace plan and approve the Thanksgiving greeting.",
+    "next_call": "Thu, Dec 3, 10:30 AM ET (9:30 AM CT)"
   },
   "tasks": [
     {
@@ -28,11 +28,11 @@
     {
       "id": "t03",
       "area": "Fix first",
-      "task": "Company name set to Florida Retirement Solutions",
+      "task": "Company name updated in your GHL account",
       "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Oct 26",
-      "note": ""
+      "when": "Nov 19",
+      "note": "Your account now shows Florida Retirement Strategies, the new name."
     },
     {
       "id": "t04",
@@ -47,19 +47,19 @@
       "id": "t05",
       "area": "Fix first",
       "task": "Website loads at www.flretirementsolutions.com",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Nov 13",
-      "note": "As of Nov 13 the www address still shows a \"page not found\" message. GHL support is still working on it. So we are not held up, Maria picked a new name on Nov 12 and the new website address is being set up."
+      "when": "Nov 17",
+      "note": "www.flretirementsolutions.com now forwards to your new website, floridaretirementstrategies.com, so old links still work."
     },
     {
       "id": "t06",
       "area": "Fix first",
       "task": "Website loads without the www",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "This week",
-      "note": "Still shows an error as of Nov 13. We will fix it together with the www address."
+      "when": "Nov 17",
+      "note": "flretirementsolutions.com now forwards to your new website, floridaretirementstrategies.com."
     },
     {
       "id": "t07",
@@ -76,8 +76,8 @@
       "task": "Business texting registration",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 6",
-      "note": "Your new local number, (786) 404-9960, is in your account. We emailed it to Maria on Nov 6. The old 888 number has been cancelled. Next we submit the business texting registration. Approval takes 2 to 4 weeks after we submit."
+      "when": "Nov 19",
+      "note": "Your new local number, (786) 404-9960, is in your account. The old 888 number has been cancelled. Next we submit the business texting registration. As of Nov 19 it has not been submitted yet. Approval takes 2 to 4 weeks after we submit."
     },
     {
       "id": "t09",
@@ -94,8 +94,8 @@
       "task": "Not affiliated with the Florida Retirement System line",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov",
-      "note": "Already in the newsletter footer. Website footer is next. Needs compliance review."
+      "when": "Nov 17",
+      "note": "Now in the newsletter footer and on your new website."
     },
     {
       "id": "t11",
@@ -140,25 +140,25 @@
       "status": "Not started",
       "owner": "Meghan Donnelly",
       "when": "Early Nov",
-      "note": "Each tip is confirmed against official FRS pages before it can be used."
+      "note": "Each tip is confirmed against official FRS pages before it can be used. Agreed on Nov 19: for the first 30 to 60 days we double check the facts in each issue."
     },
     {
       "id": "t16",
       "area": "Newsletter and content",
       "task": "Newsletter design in GHL with your disclaimer",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Nov 12: we showed the new coastal \"Weekly Retirement News\" look on the call. We will send the brand guide for your review, then a test issue for your approval. Maria's photo goes in the footer."
+      "when": "Nov 19",
+      "note": "The Weekly design is built in GHL with your disclaimer. Maria liked the first issue on the Nov 19 call."
     },
     {
       "id": "t17",
       "area": "Newsletter and content",
       "task": "First newsletter sent from GHL",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Aiming for next week",
-      "note": "Planned as a Thanksgiving issue, after you approve it and once the roomvu newsletter is turned off. roomvu stays on for social posts for now."
+      "when": "Tue, Nov 24, 9 AM",
+      "note": "Maria approved it on the Nov 19 call. It goes out Tuesday, Nov 24 at 9 AM."
     },
     {
       "id": "t18",
@@ -185,7 +185,7 @@
       "status": "Not started",
       "owner": "Maria",
       "when": "Before Jan 27",
-      "note": "We will remind you and prepare the exports."
+      "note": "Confirmed on Nov 19 that roomvu will be cancelled. We will remind you and prepare the exports."
     },
     {
       "id": "t22",
@@ -229,8 +229,8 @@
       "task": "GHL booking calendar to replace Calendly",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 5",
-      "note": "Nov 5: intro calls on Tuesdays and Thursdays, 8 AM to 5 PM, checked against Maria's personal Google calendar so nothing is double booked. Maria is assigned, with your intake form before booking. The newsletter booking button will link here."
+      "when": "Nov 19",
+      "note": "The 15-minute intro call calendar and booking page are ready and book onto the right calendar. Maria and Yilian checked it. It goes live with the new website, replacing Calendly."
     },
     {
       "id": "t26",
@@ -238,8 +238,8 @@
       "task": "Appointment reminders and no-show follow-up",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 5",
-      "note": "Confirmation, reminders 24 hours, 1 hour and 5 minutes before, a thank-you after the call, and up to 3 messages offering a new time after a missed call. Built, not turned on yet."
+      "when": "Nov 19",
+      "note": "Confirmation, reminders 24 hours, 1 hour and 5 minutes before, a thank-you after the call, and up to 3 messages offering a new time after a missed call. Turned on Nov 17 and ready for launch."
     },
     {
       "id": "t27",
@@ -256,8 +256,8 @@
       "task": "Lead and client follow-up journeys",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Nov 5: the first new-lead follow-up is built and the plan is set: ads and posts in English and Spanish lead to a short form and a booked call. Booked calls must be confirmed by the lead before they land on the calendar. Nov 9: Maria sent the text messages she already uses, so the follow-ups can sound like her. Nov 12: the step that asks each lead to confirm their call is built. Not turned on yet."
+      "when": "Nov 19",
+      "note": "Nov 5: the first new-lead follow-up is built: ads and posts in English and Spanish lead to a short form and a booked call. Nov 9: Maria sent the text messages she already uses. Nov 17: the step that asks each lead to confirm their call is turned on. Nov 19: ready to launch with the website."
     },
     {
       "id": "t55",
@@ -283,8 +283,8 @@
       "task": "Your own domain and GHL sub-account",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Nov 12: we emailed Yilian a few options for Maria's own website address. Next step is picking one."
+      "when": "Nov 19",
+      "note": "Nov 19: marianavas.com is taken but unused. We will ask the owner if they will release it. If not, we use mariainavas.com. A DBA for the Maria Navas brand is also likely."
     },
     {
       "id": "t31",
@@ -436,8 +436,8 @@
       "task": "Decision: newsletter goes out once a week",
       "status": "Done",
       "owner": "Maria and Yilian",
-      "when": "Nov 12",
-      "note": "Nov 12: it goes out Tuesdays at 10 AM ET (9 AM CT)."
+      "when": "Nov 19",
+      "note": "Each issue comes to you on Monday for approval and goes out Tuesday at 9 AM. Holiday greetings go out as separate emails."
     },
     {
       "id": "t49",
@@ -472,8 +472,8 @@
       "task": "Admin access to your Facebook page and ad account",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Maria emailed Creative One on Nov 9 asking for full admin access. On Nov 12 Yilian let us know an email came from them about releasing the access. We are waiting for it to go through."
+      "when": "Nov 17",
+      "note": "Creative One replied that the request is with their operations team. Maria forwarded their reply on Nov 17. Still waiting for access."
     },
     {
       "id": "t53",
@@ -515,10 +515,10 @@
       "id": "t58",
       "area": "Newsletter and content",
       "task": "Your questions: newsletter for contacts in your inbox, and moving Dropbox files into GHL",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Next call",
-      "note": "Maria asked on Nov 9. We replied with a quick question about how those emails are sorted, and we will go over both on Thursday's call."
+      "when": "Nov 19",
+      "note": "Covered on the Nov 19 call."
     },
     {
       "id": "t59",
@@ -535,35 +535,35 @@
       "task": "New website address: floridaretirementstrategies.com",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Secured on Nov 12 and set to renew automatically. As of Nov 13 it shows a \"page not found\" message until your website is connected. Next we connect your website to it and point the short \"fl\" version to it. A new business name may need Summit Life Group approval. Needs compliance review."
+      "when": "Nov 17",
+      "note": "Live since Nov 17 with a coming soon page and your new logo. Your old flretirementsolutions.com address forwards here. Next: the full website goes live and the short \"fl\" version points here."
     },
     {
       "id": "t61",
       "area": "From you",
       "task": "Confirm whether the business name is a DBA or a fictitious name",
-      "status": "Waiting on you",
+      "status": "Done",
       "owner": "Yilian",
-      "when": "From the Nov 12 call",
-      "note": "This helps us register the new name the right way."
+      "when": "Nov 19",
+      "note": "Confirmed on Nov 19: Florida Retirement Strategies is a DBA under Inveco USA."
     },
     {
       "id": "t62",
       "area": "Fix first",
       "task": "New logo for Florida Retirement Strategies",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Three logo options emailed on Nov 12, each in a stacked version and a wide version for the website header and email signature. Final files come once you pick."
+      "when": "Nov 17",
+      "note": "Maria picked her logo on Nov 16. Final files are in the shared Google Drive."
     },
     {
       "id": "t63",
       "area": "From you",
       "task": "Pick your new logo: option 1, 2 or 3",
-      "status": "Waiting on you",
+      "status": "Done",
       "owner": "Maria and Yilian",
-      "when": "From the Nov 12 email",
-      "note": "Reply to the Nov 12 email with 1, 2 or 3."
+      "when": "Nov 16",
+      "note": "Maria picked her logo on Nov 16."
     },
     {
       "id": "t64",
@@ -571,34 +571,172 @@
       "task": "Brand board: colors, fonts and photo style",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 12",
-      "note": "Three color directions emailed on Nov 12: Wine, Lipstick and Pearls, and Honey and Rose. Social posts and everything else will be built from the one you choose."
+      "when": "Nov 16",
+      "note": "Maria picked Honey and Rose on Nov 16. Social posts and everything else will be built from it."
     },
     {
       "id": "t65",
       "area": "From you",
       "task": "Pick Maria's brand board",
-      "status": "Waiting on you",
+      "status": "Done",
       "owner": "Maria and Yilian",
-      "when": "From the Nov 12 email",
-      "note": "Mixing is fine. If you have them, please also send the original full-size headshots from the photographer so photos look sharp everywhere."
+      "when": "Nov 16",
+      "note": "Maria picked Honey and Rose."
     },
     {
       "id": "t66",
       "area": "From you",
-      "task": "Decide on branded email addresses",
+      "task": "Pick a Google Workspace plan for branded email",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "From the Nov 19 call",
+      "note": "Starter or Standard. Gives you addresses like maria@ and hello@ on your new website address. It does not hold up the launch."
+    },
+    {
+      "id": "t67",
+      "area": "From you",
+      "task": "Upload Maria's photos to the Assets folder in Google Drive",
+      "status": "Waiting on you",
+      "owner": "Maria and Yilian",
+      "when": "From the Nov 19 call",
+      "note": "Make a \"Maria raw photos\" folder under Assets. Selfies and phone photos are fine."
+    },
+    {
+      "id": "t68",
+      "area": "Newsletter and content",
+      "task": "Approve the first issue of The Weekly",
+      "status": "Done",
+      "owner": "Maria",
+      "when": "Nov 19",
+      "note": "Approved on the Nov 19 call."
+    },
+    {
+      "id": "t69",
+      "area": "From you",
+      "task": "Test the new booking page",
+      "status": "Done",
+      "owner": "Maria and Yilian",
+      "when": "Nov 19",
+      "note": "Checked and confirmed on the Nov 19 call."
+    },
+    {
+      "id": "t70",
+      "area": "Fix first",
+      "task": "Full website for Florida Retirement Strategies",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 19",
+      "note": "Preview sent Nov 18. Nov 19: you approved launching with the current disclaimer. Next we remove the placeholders, add Maria's updated photo and push it live."
+    },
+    {
+      "id": "t71",
+      "area": "From you",
+      "task": "Review the website preview",
+      "status": "Done",
+      "owner": "Maria and Yilian",
+      "when": "Nov 19",
+      "note": "Reviewed and approved on the Nov 19 call."
+    },
+    {
+      "id": "t72",
+      "area": "From you",
+      "task": "Update your website link and logo everywhere",
       "status": "Waiting on you",
       "owner": "Yilian",
-      "when": "From the Nov 12 email",
-      "note": "Addresses like maria@ and support@ on your new website address, set up with Google Workspace. Maria's Gmail would stay her personal email."
+      "when": "From the Nov 17 email",
+      "note": "Email signatures, Google Business Profile and carrier profiles. We update the social accounts once their logins are in the password vault."
+    },
+    {
+      "id": "t73",
+      "area": "Newsletter and content",
+      "task": "Thanksgiving greeting email",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "Wed, Nov 25",
+      "note": "A standalone holiday graphic with a note that you are off for the weekend. Sent to you for approval first."
+    },
+    {
+      "id": "t74",
+      "area": "From you",
+      "task": "Add carrier and social media logins to the password vault",
+      "status": "Waiting on you",
+      "owner": "Yilian",
+      "when": "From the Nov 19 call",
+      "note": "So the newsletter can pull carrier materials and we can switch your social accounts to Florida Retirement Strategies. Carrier contact names work too."
+    },
+    {
+      "id": "t75",
+      "area": "Newsletter and content",
+      "task": "Social media plan for both brands",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "Not scheduled yet",
+      "note": "Lifestyle-first content for Florida Retirement Strategies and Maria's personal brand, based on research into what works."
+    },
+    {
+      "id": "t76",
+      "area": "Maria Navas brand",
+      "task": "Updated photo of Maria for the homepage and About page",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "After photos are uploaded",
+      "note": "Built from your photos and the outfit styles you pick, so it looks like you today."
+    },
+    {
+      "id": "t77",
+      "area": "From you",
+      "task": "Save screenshots of outfits you love",
+      "status": "Waiting on you",
+      "owner": "Maria",
+      "when": "From the Nov 19 call",
+      "note": "From White House Black Market or similar. Send them to Yilian."
+    },
+    {
+      "id": "t78",
+      "area": "From you",
+      "task": "Book a new photo shoot",
+      "status": "Waiting on you",
+      "owner": "Maria",
+      "when": "After your trip",
+      "note": "Neutral pants, five or six tops, one place with good indoor and outdoor spots."
+    },
+    {
+      "id": "t79",
+      "area": "From you",
+      "task": "Register the Florida Retirement Strategies DBA",
+      "status": "Waiting on you",
+      "owner": "Maria",
+      "when": "From the Nov 19 call",
+      "note": "Under Inveco USA."
+    },
+    {
+      "id": "t80",
+      "area": "Booking and follow-up",
+      "task": "Add Yilian to Slack as a guest",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "This week",
+      "note": "For quicker messages between calls."
     }
   ],
   "dates": [
     {
-      "id": "d5",
-      "date": "2026-11-19",
+      "id": "d6",
+      "date": "2026-11-24",
+      "label": "First issue of The Weekly",
+      "detail": "Goes out at 9 AM"
+    },
+    {
+      "id": "d7",
+      "date": "2026-11-25",
+      "label": "Thanksgiving greeting",
+      "detail": "Morning, after your approval"
+    },
+    {
+      "id": "d8",
+      "date": "2026-12-03",
       "label": "Weekly call",
-      "detail": "10:30 AM ET (9:30 AM CT), every Thursday"
+      "detail": "10:30 AM ET (9:30 AM CT)"
     },
     {
       "id": "d4",
