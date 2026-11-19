@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 19, 12:32 PM ET",
+    "updated_at": "Thu, Nov 19, 1:15 PM ET",
     "headline": "Your new website, booking page and newsletter are approved and ready to launch.",
-    "body": "Done: your logo and Honey and Rose brand board are picked, the old website address forwards to floridaretirementstrategies.com, and the first issue of The Weekly is approved. Next: the full website goes live, The Weekly goes out Tuesday, Nov 24 at 9 AM, and a Thanksgiving greeting follows Wednesday. Still open: business texting registration, Facebook access from Creative One, and new photos of Maria.",
+    "body": "Done: your logo and Honey and Rose brand board are picked, the old website address forwards to floridaretirementstrategies.com, and the first issue of The Weekly is approved and scheduled. Next: the full website goes live, The Weekly goes out Tuesday, Nov 24 at 9 AM, and a Thanksgiving greeting follows Wednesday. Still open: business texting registration, Facebook access from Creative One, and new photos of Maria.",
     "needs_you": "Yilian: add carrier and social media logins to the password vault and upload Maria's photos to the Assets folder. Maria: save outfit screenshots for Yilian, register the DBA and book a photo shoot after your trip. Both: pick a Google Workspace plan and approve the Thanksgiving greeting.",
     "next_call": "Thu, Dec 3, 10:30 AM ET (9:30 AM CT)"
   },
@@ -158,7 +158,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Tue, Nov 24, 9 AM",
-      "note": "Maria approved it on the Nov 19 call. It goes out Tuesday, Nov 24 at 9 AM."
+      "note": "Maria approved it on the Nov 19 call. It is scheduled in GHL to go out Tuesday, Nov 24 at 9 AM."
     },
     {
       "id": "t18",
@@ -717,6 +717,15 @@
       "owner": "Meghan Donnelly",
       "when": "This week",
       "note": "For quicker messages between calls."
+    },
+    {
+      "id": "t81",
+      "area": "Maria Navas brand",
+      "task": "Real estate and mortgage news for Maria's personal newsletter",
+      "status": "Not started",
+      "owner": "Meghan Donnelly",
+      "when": "From the Nov 19 call",
+      "note": "Maria's own real estate and mortgage accounts can feed her personal newsletter, with the monthly home value report offered as a sign-up link. We need those logins in the password vault first."
     }
   ],
   "dates": [
