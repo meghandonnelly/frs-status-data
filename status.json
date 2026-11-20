@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Thu, Nov 19, 6:15 PM ET",
-    "headline": "Your new website, booking page and newsletter are approved and ready to launch.",
-    "body": "Done: your logo and Honey and Rose brand board are picked, the old website address forwards to floridaretirementstrategies.com, the first issue of The Weekly is approved and scheduled, and Maria's photos and outfit picks are in. Next: the full website goes live, The Weekly goes out Tuesday, Nov 24 at 9 AM, and a Thanksgiving greeting follows Wednesday. Still open: business texting registration and Facebook access from Creative One.",
+    "updated_at": "Fri, Nov 20, 9:20 AM ET",
+    "headline": "Your new website, booking page and newsletter are approved, and the first issue of The Weekly is scheduled for Tuesday.",
+    "body": "Done: your logo and Honey and Rose brand board are picked, the old website address forwards to floridaretirementstrategies.com, the first issue of The Weekly is approved and scheduled, and Maria picked her favorite new photos. Next: the full website goes live with Maria's new photo, The Weekly goes out Tuesday, Nov 24 at 9 AM ET, and a Thanksgiving greeting follows Wednesday. Still open: business texting registration and Facebook access from Creative One.",
     "needs_you": "Yilian: add carrier and social media logins to the password vault and update your website link and logo everywhere. Maria: register the DBA and book a photo shoot after your trip. Both: pick a Google Workspace plan and approve the Thanksgiving greeting.",
     "next_call": "Thu, Dec 3, 10:30 AM ET (9:30 AM CT)"
   },
@@ -76,8 +76,8 @@
       "task": "Business texting registration",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 19",
-      "note": "Your new local number, (786) 404-9960, is in your account. The old 888 number has been cancelled. Next we submit the business texting registration. As of Nov 19 it has not been submitted yet. Approval takes 2 to 4 weeks after we submit."
+      "when": "Nov 20",
+      "note": "Your new local number, (786) 404-9960, is in your account. The old 888 number has been cancelled. Next we submit the business texting registration. As of Nov 20 it has not been submitted yet. Approval takes 2 to 4 weeks after we submit."
     },
     {
       "id": "t09",
@@ -157,8 +157,8 @@
       "task": "First newsletter sent from GHL",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Tue, Nov 24, 9 AM",
-      "note": "Maria approved it on the Nov 19 call. It is scheduled in GHL to go out Tuesday, Nov 24 at 9 AM."
+      "when": "Tue, Nov 24, 9 AM ET",
+      "note": "Maria approved it on the Nov 19 call. Checked Nov 20: it is scheduled in GHL to go out Tuesday, Nov 24 at 9 AM ET."
     },
     {
       "id": "t18",
@@ -437,7 +437,7 @@
       "status": "Done",
       "owner": "Maria and Yilian",
       "when": "Nov 19",
-      "note": "Each issue comes to you on Monday for approval and goes out Tuesday at 9 AM. Holiday greetings go out as separate emails."
+      "note": "Each issue comes to you on Monday for approval and goes out Tuesday at 9 AM ET. Holiday greetings go out as separate emails."
     },
     {
       "id": "t49",
@@ -535,8 +535,8 @@
       "task": "New website address: floridaretirementstrategies.com",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 17",
-      "note": "Live since Nov 17 with a coming soon page and your new logo. Your old flretirementsolutions.com address forwards here. Next: the full website goes live and the short \"fl\" version points here."
+      "when": "Nov 20",
+      "note": "Live since Nov 17 with a coming soon page and your new logo, set to renew automatically. Your old flretirementsolutions.com address forwards here. Next: the full website goes live and the short \"fl\" version points here."
     },
     {
       "id": "t61",
@@ -625,8 +625,8 @@
       "task": "Full website for Florida Retirement Strategies",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 19",
-      "note": "Preview sent Nov 18. Nov 19: you approved launching with the current disclaimer. Next we remove the placeholders, add Maria's updated photo and push it live."
+      "when": "Nov 20",
+      "note": "Preview sent Nov 18. Nov 19: you approved launching with the current disclaimer. As of Nov 20 the coming soon page is still up. Next we remove the placeholders, add Maria's new photo and push it live."
     },
     {
       "id": "t71",
@@ -677,10 +677,10 @@
       "id": "t76",
       "area": "Maria Navas brand",
       "task": "Updated photo of Maria for the homepage and About page",
-      "status": "Not started",
+      "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Next",
-      "note": "Built from the photos and outfit picks Maria sent on Nov 19, so it looks like you today."
+      "when": "Nov 19",
+      "note": "Built from the photos and outfit picks Maria sent on Nov 19. New photo options were emailed that evening, and Maria loved them, with options 4 and 6 as her favorites."
     },
     {
       "id": "t77",
@@ -724,7 +724,7 @@
       "id": "d6",
       "date": "2026-11-24",
       "label": "First issue of The Weekly",
-      "detail": "Goes out at 9 AM"
+      "detail": "Goes out at 9 AM ET"
     },
     {
       "id": "d7",
