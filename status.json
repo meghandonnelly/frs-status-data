@@ -1,9 +1,9 @@
 {
   "summary": {
-    "updated_at": "Wed, Nov 25, 1:15 PM ET",
-    "headline": "Your new website is live, and the first issue of The Weekly went out on Tuesday.",
-    "body": "Done: floridaretirementstrategies.com is live in English and Spanish with the free guide and the new booking page, and the first newsletter went out Nov 24. Next: the small website changes from Maria's notes, submitting the business texting registration and cancelling roomvu. Still open: Facebook access from Creative One and the Google Workspace setup.",
-    "needs_you": "Yilian: save the card for Google Workspace in the password vault, send Maria's own photos for the newsletter, and update your website link and logo everywhere. Maria: register the DBA and book a photo shoot after your trip.",
+    "updated_at": "Wed, Nov 25, 6:10 PM ET",
+    "headline": "Your business texting registration has been sent in, and your new ads are coming next week.",
+    "body": "Done: the website is live in English and Spanish, the first issue of The Weekly went out Nov 24, and the texting registration was submitted Nov 25 with your business approved. Next: the texting campaign part came back rejected, so we are fixing and resending it, and ads for new clients and agent recruiting come to you for approval by Monday, Nov 30. Still open: the small website changes from Maria's notes, cancelling roomvu, Facebook access from Creative One and the Google Workspace setup.",
+    "needs_you": "Yilian: save the card for Google Workspace in the password vault, send Maria's own photos for the newsletter, and update your website link and logo everywhere. Maria: review the new ads on Monday, register the DBA and book a photo shoot after your trip.",
     "next_call": "Thu, Dec 3, 10:30 AM ET (9:30 AM CT). No call this week for Thanksgiving."
   },
   "tasks": [
@@ -77,7 +77,7 @@
       "status": "In progress",
       "owner": "Meghan Donnelly",
       "when": "Nov 25",
-      "note": "Your new local number, (786) 404-9960, is in your account. Maria sent the business details on Nov 24, and Summit VIDA is being removed from the registration. Checked Nov 25: it has not been submitted yet. Approval takes 2 to 4 weeks after we submit."
+      "note": "Your new local number, (786) 404-9960, is in your account. Submitted on Nov 25 without Summit VIDA. Your business is approved. The texting campaign part came back rejected, so we are fixing it and sending it again. Approval takes 2 to 4 weeks after that."
     },
     {
       "id": "t09",
@@ -130,8 +130,8 @@
       "task": "Newsletter assistant built inside your GHL",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 24",
-      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. About four sections each week, built from your own resource library. Nothing goes to subscribers on its own. Before the next issue we are finding a better way to add pictures to each article."
+      "when": "Nov 25",
+      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. About four sections each week, built from your own resource library. Nothing goes to subscribers on its own. Before the next issue we are finding a better way to add pictures to each article. Nov 25: Maria asked to see the second issue."
     },
     {
       "id": "t15",
@@ -184,8 +184,8 @@
       "task": "Export roomvu data and cancel",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 24",
-      "note": "Nov 24: Maria asked us to cancel roomvu or turn off its renewal. Meghan is signing in to do it, using a login code sent to Maria. Renewal date is Jan 27."
+      "when": "Nov 25",
+      "note": "Nov 24: Maria asked us to cancel roomvu or turn off its renewal. Meghan is signing in to do it, using login codes Maria sent on Nov 24 and 25. Renewal date is Jan 27."
     },
     {
       "id": "t22",
@@ -653,7 +653,7 @@
       "status": "Not started",
       "owner": "Meghan Donnelly",
       "when": "Wed, Nov 25",
-      "note": "A standalone holiday graphic with a note that you are off for the weekend. Sent to you for approval first. Not sent yet as of midday Nov 25."
+      "note": "A standalone holiday graphic with a note that you are off for the weekend. Sent to you for approval first. Not sent yet as of 6 PM ET on Nov 25."
     },
     {
       "id": "t74",
@@ -735,6 +735,24 @@
       "owner": "Yilian",
       "when": "From the Nov 24 email",
       "note": "Maria prefers her own photos in The Weekly. Yilian will find them and send them over."
+    },
+    {
+      "id": "t83",
+      "area": "Newsletter and content",
+      "task": "Newsletter results dashboard",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "Nov 25",
+      "note": "Maria said yes on Nov 25. Maria and Yilian will be added to the send list, and a simple dashboard will show how each issue does and which readers to follow up with."
+    },
+    {
+      "id": "t84",
+      "area": "Booking and follow-up",
+      "task": "Facebook ads for new clients and agent recruiting",
+      "status": "In progress",
+      "owner": "Meghan Donnelly",
+      "when": "By Mon, Nov 30",
+      "note": "Maria asked on Nov 25. The ads come to you for review and approval by Monday, Nov 30, with the plan for who sees them and the budget."
     }
   ],
   "dates": [
@@ -743,6 +761,12 @@
       "date": "2026-11-25",
       "label": "Thanksgiving greeting",
       "detail": "Morning, after your approval"
+    },
+    {
+      "id": "d9",
+      "date": "2026-11-30",
+      "label": "New ads ready for your review",
+      "detail": "Ads for new clients and agent recruiting, with the plan for who sees them"
     },
     {
       "id": "d8",
