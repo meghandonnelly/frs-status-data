@@ -1,8 +1,8 @@
 {
   "summary": {
-    "updated_at": "Wed, Nov 25, 6:10 PM ET",
-    "headline": "Your business texting registration has been sent in, and your new ads are coming next week.",
-    "body": "Done: the website is live in English and Spanish, the first issue of The Weekly went out Nov 24, and the texting registration was submitted Nov 25 with your business approved. Next: the texting campaign part came back rejected, so we are fixing and resending it, and ads for new clients and agent recruiting come to you for approval by Monday, Nov 30. Still open: the small website changes from Maria's notes, cancelling roomvu, Facebook access from Creative One and the Google Workspace setup.",
+    "updated_at": "Thu, Nov 26, 11:55 PM ET",
+    "headline": "Your business texting is approved, and your new ads come to you for review on Monday.",
+    "body": "Done: the website is live in English and Spanish, the first issue of The Weekly went out Nov 24, your texting registration was approved on Nov 26, and roomvu has turned off its newsletter emails. Next: ads for new clients and agent recruiting come to you for approval by Monday, Nov 30, and the second issue of The Weekly. Still open: the small website changes from Maria's notes, cancelling roomvu before Jan 27, Facebook access from Creative One and the Google Workspace setup.",
     "needs_you": "Yilian: save the card for Google Workspace in the password vault, send Maria's own photos for the newsletter, and update your website link and logo everywhere. Maria: review the new ads on Monday, register the DBA and book a photo shoot after your trip.",
     "next_call": "Thu, Dec 3, 10:30 AM ET (9:30 AM CT). No call this week for Thanksgiving."
   },
@@ -74,10 +74,10 @@
       "id": "t08",
       "area": "Fix first",
       "task": "Business texting registration",
-      "status": "In progress",
+      "status": "Done",
       "owner": "Meghan Donnelly",
-      "when": "Nov 25",
-      "note": "Your new local number, (786) 404-9960, is in your account. Submitted on Nov 25 without Summit VIDA. Your business is approved. The texting campaign part came back rejected, so we are fixing it and sending it again. Approval takes 2 to 4 weeks after that."
+      "when": "Nov 26",
+      "note": "Approved. Your business and your texting campaign both show Approved in your account, checked Nov 26. Your new local number, (786) 404-9960, can now send texts. Caller ID checks are approved too, and showing your business name on calls is still in review."
     },
     {
       "id": "t09",
@@ -130,8 +130,8 @@
       "task": "Newsletter assistant built inside your GHL",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 25",
-      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. About four sections each week, built from your own resource library. Nothing goes to subscribers on its own. Before the next issue we are finding a better way to add pictures to each article. Nov 25: Maria asked to see the second issue."
+      "when": "Nov 26",
+      "note": "It finds the news, writes each issue in Maria's voice and saves a draft for approval. About four sections each week, built from your own resource library. Nothing goes to subscribers on its own. Before the next issue we are finding a better way to add pictures to each article. Nov 25: Maria asked to see the second issue. Nov 26: Maria asked for a copy of the Tuesday newsletter."
     },
     {
       "id": "t15",
@@ -184,8 +184,8 @@
       "task": "Export roomvu data and cancel",
       "status": "In progress",
       "owner": "Meghan Donnelly",
-      "when": "Nov 25",
-      "note": "Nov 24: Maria asked us to cancel roomvu or turn off its renewal. Meghan is signing in to do it, using login codes Maria sent on Nov 24 and 25. Renewal date is Jan 27."
+      "when": "Nov 26",
+      "note": "Nov 25: roomvu confirmed your newsletter emails are turned off, so nothing more goes out from roomvu. Maria forwarded their reply on Nov 26. Next: cancel the account or turn off its renewal before Jan 27."
     },
     {
       "id": "t22",
@@ -247,8 +247,8 @@
       "task": "AI phone assistant and missed-call text back",
       "status": "Not started",
       "owner": "Meghan Donnelly",
-      "when": "After texting is approved",
-      "note": ""
+      "when": "Next, now that texting is approved",
+      "note": "Texting was approved on Nov 26, so this can start."
     },
     {
       "id": "t28",
@@ -652,8 +652,8 @@
       "task": "Thanksgiving greeting email",
       "status": "Not started",
       "owner": "Meghan Donnelly",
-      "when": "Wed, Nov 25",
-      "note": "A standalone holiday graphic with a note that you are off for the weekend. Sent to you for approval first. Not sent yet as of 6 PM ET on Nov 25."
+      "when": "Nov 26",
+      "note": "A standalone holiday graphic with a note that you are off for the weekend. It did not go out for Thanksgiving."
     },
     {
       "id": "t74",
@@ -756,12 +756,6 @@
     }
   ],
   "dates": [
-    {
-      "id": "d7",
-      "date": "2026-11-25",
-      "label": "Thanksgiving greeting",
-      "detail": "Morning, after your approval"
-    },
     {
       "id": "d9",
       "date": "2026-11-30",
